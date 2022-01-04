@@ -13,3 +13,5 @@ TODO: Add Description
 // TODO: add usage examples
 
 ```
+
+(TODO: remember to add NPM_TOKEN to secrets)
