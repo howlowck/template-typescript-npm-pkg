@@ -1,5 +1,5 @@
 {
-  "name": "todo-project-name",
+  "name": "template-typescript-npm-pkg",
   "version": "1.0.0",
   "description": "",
   "main": "dist/cjs/index.js",
