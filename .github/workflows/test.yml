@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node: [12.x, 14.x, 16.x]
+        node: [16.x, 18.x, 20.x]
     services:
       azurite:
         image: mcr.microsoft.com/azure-storage/azurite
